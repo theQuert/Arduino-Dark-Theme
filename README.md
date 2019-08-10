@@ -1,18 +1,18 @@
-# Arduino Dark Theme
- Arduino Dark Theme
+## Arduino Dark Theme
+
 ================
 Currently work with Arduino 1.8.9+
 
-### Installation
+## Installation
 
 - For macOS users, replace `/Applications/Arduino.app/Contents/Java/lib/theme` with this repository.
 - For Windows users, replace `C:\ProgramFiles (x86)\Arduino\lib\theme` with this repository.
 - For Linux users, replace `/usr/share/arduino/lib/theme` with this repository.
 
-### Testing
+## Testing
 - With newest version of Arduino IDE release, repository will be updated.
 
-### Remodeling
+## Remodeling
 
 - This repository is allowed to remodel with your own settings.
 
@@ -21,4 +21,5 @@ Currently work with Arduino 1.8.9+
 ## Credits
 #### [Jeff Thompson](https://github.com/jeffThompson)
 =================
+
 ### Released under [Creative Commons BY-NC -SA licenses](https://creativecommons.org/licenses/by-nc-sa/3.0/)
