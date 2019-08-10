@@ -1,6 +1,6 @@
 ## Arduino Dark Theme
 
-================
+
 Currently work with Arduino 1.8.9+
 
 ## Installation
@@ -19,7 +19,7 @@ Currently work with Arduino 1.8.9+
 
 
 ## Credits
-#### [Jeff Thompson](https://github.com/jeffThompson)
-=================
+### [Jeff Thompson](https://github.com/jeffThompson)
 
-### Released under [Creative Commons BY-NC -SA licenses](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+#### Released under [Creative Commons BY-NC -SA licenses](https://creativecommons.org/licenses/by-nc-sa/3.0/)
