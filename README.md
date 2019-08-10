@@ -1,4 +1,4 @@
-## Arduino Dark Theme
+# Arduino Dark Theme
 ![image](https://github.com/the-Quert/Arduino-Dark-Theme/blob/master/Screenshot.png)
 
 Currently work with Arduino IDE 1.8.9
